@@ -45,6 +45,9 @@
     },
     "cli": {
       "appVersionSource": "local"
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
     }
   }
 }
