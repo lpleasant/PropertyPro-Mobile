@@ -38,11 +38,7 @@
       "expo-camera",
       "expo-local-authentication"
     ],
-    "extra": {
-      "eas": {
-        "projectId": "aa97cc8c-cdc3-4d76-b37c-366811bcb9f9"
-      }
-    },
+
     "cli": {
       "appVersionSource": "local"
     },
