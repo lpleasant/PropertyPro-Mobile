@@ -38,7 +38,11 @@
       "expo-camera",
       "expo-local-authentication"
     ],
-
+    "extra": {
+      "eas": {
+        "projectId": "new-project-id-placeholder"
+      }
+    },
     "cli": {
       "appVersionSource": "local"
     },
