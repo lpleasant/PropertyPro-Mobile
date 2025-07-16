@@ -18,7 +18,8 @@
     "react-native-webview": "13.2.2",
     "expo-location": "~16.1.0",
     "expo-camera": "~13.4.0",
-    "expo-local-authentication": "~13.4.0"
+    "expo-local-authentication": "~13.4.0",
+    "@react-native-async-storage/async-storage": "1.18.2"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0"
