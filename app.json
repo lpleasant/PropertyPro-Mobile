@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "PropertyPro Mobile",
-    "slug": "rest-express",
+    "slug": "propertypro-mobile",
     "version": "1.0.0",
     "orientation": "portrait",
     "userInterfaceStyle": "light",
